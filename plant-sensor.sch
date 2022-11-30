@@ -721,4 +721,6 @@ Wire Wire Line
 Wire Wire Line
 	1000 1200 1800 1200
 NoConn ~ 1800 2300
+Text Label 5150 1200 0    50   ~ 0
+Csen+
 $EndSCHEMATC
